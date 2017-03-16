@@ -1,5 +1,6 @@
-image-classification/.ipynb_checkpoints/*
-image-classification/cifar-10-batches-py/*
+.DS_Store
+/image-classification/.ipynb_checkpoints/*
+/image-classification/cifar-10-batches-py/*
 /image-classification/cifar-10-python.tar.gz
 /image-classification/__pycache__/*
 /image-classification/preprocess_batch_1.p
@@ -9,6 +10,6 @@ image-classification/cifar-10-batches-py/*
 /image-classification/preprocess_batch_5.p
 /image-classification/preprocess_training.p
 /image-classification/preprocess_validation.p
-image-classification/image_classification.data-00000-of-00001
-image-classification/image_classification.index
-image-classification/image_classification.meta
+/image-classification/image_classification.data-00000-of-00001
+/image-classification/image_classification.index
+/image-classification/image_classification.meta
