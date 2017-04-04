@@ -14,5 +14,8 @@
 /image-classification/image_classification.index
 /image-classification/image_classification.meta
 
-.ipynb_checkpoints
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
 
+.ipynb_checkpoints/
