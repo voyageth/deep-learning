@@ -1,0 +1,27 @@
+[submodule "Siraj/LanguageTranslator"]
+	path = Siraj/LanguageTranslator
+	url = https://github.com/llSourcell/How_to_make_a_language_translator.git
+[submodule "Siraj/GenerateMusic"]
+	path = Siraj/GenerateMusic
+	url = https://github.com/llSourcell/How-to-Generate-Music-Demo.git
+[submodule "Siraj/ChatBot"]
+	path = Siraj/ChatBot
+	url = https://github.com/llSourcell/How_to_make_a_chatbot.git
+[submodule "Siraj/TextSummarizer"]
+	path = Siraj/TextSummarizer
+	url = https://github.com/llSourcell/How_to_make_a_text_summarizer.git
+[submodule "Siraj/GenerateArt"]
+	path = Siraj/GenerateArt
+	url = https://github.com/llSourcell/How-to-Generate-Art-Demo.git
+[submodule "Siraj/PredictStockPrices"]
+	path = Siraj/PredictStockPrices
+	url = https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo.git
+[submodule "Siraj/SentimentAnalysis"]
+	path = Siraj/SentimentAnalysis
+	url = https://github.com/llSourcell/How_to_do_Sentiment_Analysis.git
+[submodule "Siraj/MathForDeepLearning"]
+	path = Siraj/MathForDeepLearning
+	url = https://github.com/llSourcell/how_to_do_math_for_deep_learning.git
+[submodule "Siraj/ImageClassifier"]
+	path = Siraj/ImageClassifier
+	url = https://github.com/llSourcell/how_to_make_an_image_classifier.git
