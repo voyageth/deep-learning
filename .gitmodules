@@ -1,3 +1,7 @@
+[submodule "reinforcement/gym"]
+	path = reinforcement/gym
+	url = https://github.com/openai/gym
+
 [submodule "Siraj/LanguageTranslator"]
 	path = Siraj/LanguageTranslator
 	url = https://github.com/llSourcell/How_to_make_a_language_translator.git
