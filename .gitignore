@@ -19,3 +19,7 @@ embeddings/data/
 embeddings/text8.zip
 
 .ipynb_checkpoints/
+
+*.pyc
+*.p
+
