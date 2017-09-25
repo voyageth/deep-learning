@@ -28,3 +28,5 @@ face_generation/data/
 
 */.floyd*
 
+
+embeddings/checkpoints/
